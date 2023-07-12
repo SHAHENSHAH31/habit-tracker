@@ -1,0 +1,13 @@
+.daycontainer{
+    height: 100px;
+    width: 150px;
+    background-image: linear-gradient(to right,rgba(33,24,75,.82) 0%,#112c67 100%);
+    margin: 5px;
+    border-radius: 20px;
+    padding: 5px;
+  }
+  p{
+    margin: 0%;
+  }
+ 
+  
